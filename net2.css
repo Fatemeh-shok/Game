@@ -1,0 +1,229 @@
+.body{
+    margin: 0;
+    font-family: sans-serif;
+}
+.container{
+    background: linear-gradient(to right, rgb(0 0 0 / 39%) 30%, rgb(132 132 132 / 5%)),
+    url(../net-files/dark.jpg) center/cover no-repeat;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    padding: 0rem;
+    padding: 2rem;
+    box-sizing: inherit;
+    color: #fff3e7;
+    margin: 0;
+}
+.img{
+
+}
+.right{
+    display: flex;
+}
+.left{
+    display: flex;
+}
+.header-menu{
+
+display: flex;
+
+justify-content: space-between;
+
+align-items: center;
+
+text-align: center;
+}
+.bug{
+
+width: 3rem;
+
+height: 3rem;
+}
+.nav__menu{margin-left: 3rem;}
+.nav__ul{
+
+display: flex;
+
+gap: 4rem;
+}
+.nav__li{
+
+list-style-type: none;
+}
+.nav__search{
+
+display: flex;
+}
+.btn{
+
+display: flex;
+
+margin-right: 3rem;
+}
+.btn__search{
+
+background-color: transparent;
+
+outline: none;
+
+border: 1px solid #fff;
+
+border-radius: 2rem;
+
+width: 19rem;
+
+height: 1.9rem;
+
+padding: 0.5rem;
+
+padding-right: 2rem;
+
+color: #fff;
+
+margin-top: 0.6rem;
+}
+.search{
+
+width: 1rem;
+
+margin-left: -2rem;
+}
+.user{
+
+width: 3rem;
+
+display: flex;
+}
+.main-container{
+
+display: flex;
+
+justify-content: space-between;
+
+width: 90%;
+
+margin: 0 auto;
+
+margin-top: 5rem;
+}
+.main-1{
+
+width: 30%;
+
+display: flex;
+
+flex-direction: column;
+}
+.main__subject{
+
+}
+.main__h4{
+
+color: #bebdbd;
+}
+.main__h1{
+
+font-family: fantasy;
+
+font-size: 6rem;
+
+font-weight: 100;
+
+margin: 0;
+
+width: 1rem;
+}
+.span__h1{
+
+}
+.main__favorite{
+
+width: 10rem;
+
+display: flex;
+
+background-color: #985c23;
+
+height: 2rem;
+
+margin-top: 1rem;
+
+justify-content: center;
+
+align-items: center;
+
+color: #000;
+}
+.star{
+
+width: 1.6rem;
+
+color: #000;
+}
+.main__favorite-text{margin-left: 0.6rem;}
+.main-2{
+
+margin-top: 7rem;
+}
+.main2-texts{
+
+}
+.main__h3{
+    font-weight: 900;
+    font-size: 1.5rem;
+}
+.main2__text1{
+
+}
+.main2__text2{
+
+width: 21rem;
+}
+.main2__button{
+
+display: flex;
+
+margin-top: 2rem;
+}
+.main2__btn1{
+    background-color: #995d25;
+    width: 8rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 2rem;
+}
+.play{
+
+width: 1rem;
+
+color: #000;
+
+fill: #000;
+}
+.main__btn1{
+
+text-decoration: none;
+
+color: #000;
+
+font-weight: 700;
+}
+.main__btn2{
+
+text-decoration: none;
+
+color: #fff;
+
+border: 1px solid #fff;
+
+justify-content: center;
+
+align-items: center;
+
+display: flex;
+
+padding: 0.5rem;
+
+font-size: 0.9rem;
+}
