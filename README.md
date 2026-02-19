@@ -1,3 +1,3 @@
 # Game
 Under construction...
-Not responsive and currently only for desktop
+Not responsive and currently only for desktop.
