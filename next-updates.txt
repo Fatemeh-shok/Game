@@ -1,0 +1,9 @@
+Improve button hover animations (smoother transition & subtle scale effect)
+Add mobile sidebar
+Refine typography hierarchy
+Improve search input styling and behavior
+Add smooth scroll behavior
+Add
+Add game/movie cards section
+Add trailer modal popup
+Add dynamic rating display
