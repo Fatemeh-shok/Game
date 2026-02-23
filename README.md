@@ -77,4 +77,4 @@ The game and all content are fictional.
 
 ## 🤝 Author
 
-Created with ❤️ by **[Your GitHub Username]**
+Created with ❤️ by **[Fatemeh-shok]**
